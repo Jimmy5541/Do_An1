@@ -15,10 +15,9 @@
         <tenkhoa>Cong nghe thong tin</tenkhoa>
         <namTL>2022</namTL>
     </Khoa>
-<Khoa>
-    <makhoa>CNTP</makhoa>
-    <tenkhoa>Cong nghe thuc pham</tenkhoa>
-    <namTL>2022</namTL>
-
-</Khoa>
+    <Khoa>
+        <makhoa>CNTP</makhoa>
+        <tenkhoa>Cong nghe thuc pham</tenkhoa>
+        <namTL>2022</namTL>
+    </Khoa>
 </DSKhoa>

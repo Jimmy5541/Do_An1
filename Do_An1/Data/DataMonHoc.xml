@@ -4,10 +4,12 @@
 		<ten>Tri tue nhan tao</ten>
 		<ma>TTNT</ma>
 		<sotinchi>3</sotinchi>
+		<loai>Ly thuyet</loai>
 	</monhoc>
 	<monhoc>
-		<ten>toan roi rac</ten>
+		<ten>Toan roi rac</ten>
 		<ma>TRR</ma>
 		<sotinchi>3</sotinchi>
+		<loai>Ly thuyet</loai>
 	</monhoc>
 </dsmonhoc>
