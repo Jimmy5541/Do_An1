@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DSKhoa>
+    <Khoa>
+        <makhoa>KKT</makhoa>
+        <tenkhoa>Ky thuat Co - Dien tu va May tinh</tenkhoa>
+        <namTL>2022</namTL>
+    </Khoa>
+    <Khoa>
+        <makhoa>CNTT</makhoa>
+        <tenkhoa>Cong nghe thong tin</tenkhoa>
+        <namTL>2022</namTL>
+    </Khoa>
+    <Khoa>
+        <makhoa>CNTT</makhoa>
+        <tenkhoa>Cong nghe thong tin</tenkhoa>
+        <namTL>2022</namTL>
+    </Khoa>
+<Khoa>
+    <makhoa>CNTP</makhoa>
+    <tenkhoa>Cong nghe thuc pham</tenkhoa>
+    <namTL>2022</namTL>
+
+</Khoa>
+</DSKhoa>

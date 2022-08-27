@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DSSinhVien>
+    <SinhVien>
+        <ho>Chau</ho>
+        <ten>Phat Lan</ten>
+        <masinhvien>2174801090011</masinhvien>
+        <ngaysinh>05/01/2003</ngaysinh>
+        <lop>71K27KHDL</lop>
+        <quequan>TP. Ho Chi Minh</quequan>
+        <gioitinh>Nam</gioitinh>
+    </SinhVien>
+</DSSinhVien>

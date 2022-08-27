@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Do_An1.Model.MKhoa">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACIAAAAAACAAAAAgACAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Model\MKhoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Do_An1.Model.MLopHoc">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAACIAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MLopHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Do_An1.Model.MSinhVien">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgQAAAIAAiAAAAIgAAAAAEAAgAhABIAI=</HashCode>
+      <FileName>Model\MSinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Do_An1.Control.ControlKhoa">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAgAAAAAAAAAAQAAAAAAAAAACAAAAAACAAA=</HashCode>
+      <FileName>Control\ControlKhoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Do_An1.Control.ControlLopHoc">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEAAAAAAAAAAAAgAQAAAAAAAAAACAAAAAACAAA=</HashCode>
+      <FileName>Control\ControlLopHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Do_An1.Control.ControlSinhVien">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAACAAAAAAQAAAAAAAAAACAAAAAACAAA=</HashCode>
+      <FileName>Control\ControlSinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
