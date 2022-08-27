@@ -6,9 +6,7 @@ namespace Do_An1.Control
     public class ControlKhoa
     {
         public List<MKhoa> khoas = new List<MKhoa>();
-        public ControlKhoa()
-        {
-        }
+       
         private void add(MKhoa khoa)
         { khoas.Add(khoa); }
 
@@ -33,5 +31,7 @@ namespace Do_An1.Control
             }
             return khoas;
         }
+        public ControlKhoa()
+        { }
     }
 }

@@ -31,7 +31,7 @@
   <Class Name="Do_An1.Control.ControlLopHoc">
     <Position X="2.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAgAAEAAAAAAAAAAAAgAQAAAAAAAAAACAAAAAACAAA=</HashCode>
+      <HashCode>AAAAAAEAAAAAAAAAAAAgAQAAAAAAAAAACAAAAAACAAA=</HashCode>
       <FileName>Control\ControlLopHoc.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -40,6 +40,20 @@
     <TypeIdentifier>
       <HashCode>AAAAAAEAAAAAAACAAAAAAQAAAAAAAAAACAAAAAACAAA=</HashCode>
       <FileName>Control\ControlSinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Do_An1.Model.MMonHoc">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAAAAAAAAAAgAAQAJAAEAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Do_An1.Control.ControlMonHoc">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAEAAAAAAAAAAAAQAAAAAAAAAACAAAAAACAAA=</HashCode>
+      <FileName>Control\ControlMonHoc.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
